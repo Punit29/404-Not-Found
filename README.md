@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://naughty-aryabhata-77e640.netlify.app/">
       Demo
     </a>
     <span> | </span>
